@@ -1,0 +1,8 @@
+{
+  "aliases": {
+    "lune": "~/.lune/.typedefs/0.10.4/",
+    "src": "./src",
+    "tests": "./tests",
+    "maps": "./tests/maps"
+  }
+}
